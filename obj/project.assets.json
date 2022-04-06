@@ -1,0 +1,680 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Bannerlord.BuildResources/1.0.0.39": {
+        "type": "package",
+        "build": {
+          "build/Bannerlord.BuildResources.props": {},
+          "build/Bannerlord.BuildResources.targets": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Bannerlord.BuildResources.props": {},
+          "buildMultiTargeting/Bannerlord.BuildResources.targets": {}
+        }
+      },
+      "Harmony.Extensions/2.0.0.50": {
+        "type": "package",
+        "contentFiles": {
+          "contentFiles/cs/net45/Harmony.Extensions/AccessCacheHandle.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/AccessCacheHandle.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Constructor.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/AccessTools2.Constructor.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Delegate.Constructor.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/AccessTools2.Delegate.Constructor.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Delegate.Property.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/AccessTools2.Delegate.Property.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Delegate.Shared.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/AccessTools2.Delegate.Shared.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Delegate.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/AccessTools2.Delegate.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Field.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/AccessTools2.Field.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.FieldRef.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/AccessTools2.FieldRef.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Method.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/AccessTools2.Method.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Property.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/AccessTools2.Property.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.StaticFieldRef.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/AccessTools2.StaticFieldRef.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.StructFieldRef.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/AccessTools2.StructFieldRef.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/AccessTools2.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/HarmonyExtensions.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/HarmonyExtensions.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/Reflect.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/Reflect.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.Constructor.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/SymbolExtensions2.Constructor.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.Field.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/SymbolExtensions2.Field.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.FieldRef.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/SymbolExtensions2.FieldRef.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.Method.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/SymbolExtensions2.Method.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.Property.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/SymbolExtensions2.Property.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.StaticFieldRef.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/SymbolExtensions2.StaticFieldRef.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.StructFieldRef.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/SymbolExtensions2.StructFieldRef.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/SymbolExtensions2.cs"
+          },
+          "contentFiles/cs/net45/Harmony.Extensions/Traverse2.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Harmony.Extensions/Traverse2.cs"
+          }
+        }
+      },
+      "IsExternalInit/1.0.1": {
+        "type": "package",
+        "contentFiles": {
+          "contentFiles/cs/net40/IsExternalInit/IsExternalInit.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "IsExternalInit/IsExternalInit.cs"
+          }
+        },
+        "build": {
+          "build/net40/IsExternalInit.targets": {}
+        }
+      },
+      "Lib.Harmony/2.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net472/0Harmony.dll": {}
+        },
+        "runtime": {
+          "lib/net472/_._": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      },
+      "Nullable/1.3.0": {
+        "type": "package",
+        "contentFiles": {
+          "contentFiles/cs/net40/Nullable/AllowNullAttribute.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Nullable/AllowNullAttribute.cs"
+          },
+          "contentFiles/cs/net40/Nullable/DisallowNullAttribute.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Nullable/DisallowNullAttribute.cs"
+          },
+          "contentFiles/cs/net40/Nullable/DoesNotReturnAttribute.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Nullable/DoesNotReturnAttribute.cs"
+          },
+          "contentFiles/cs/net40/Nullable/DoesNotReturnIfAttribute.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Nullable/DoesNotReturnIfAttribute.cs"
+          },
+          "contentFiles/cs/net40/Nullable/MaybeNullAttribute.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Nullable/MaybeNullAttribute.cs"
+          },
+          "contentFiles/cs/net40/Nullable/MaybeNullWhenAttribute.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Nullable/MaybeNullWhenAttribute.cs"
+          },
+          "contentFiles/cs/net40/Nullable/MemberNotNullAttribute.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Nullable/MemberNotNullAttribute.cs"
+          },
+          "contentFiles/cs/net40/Nullable/MemberNotNullWhenAttribute.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Nullable/MemberNotNullWhenAttribute.cs"
+          },
+          "contentFiles/cs/net40/Nullable/NotNullAttribute.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Nullable/NotNullAttribute.cs"
+          },
+          "contentFiles/cs/net40/Nullable/NotNullIfNotNullAttribute.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Nullable/NotNullIfNotNullAttribute.cs"
+          },
+          "contentFiles/cs/net40/Nullable/NotNullWhenAttribute.cs.pp": {
+            "buildAction": "Compile",
+            "codeLanguage": "cs",
+            "copyToOutput": false,
+            "ppOutputPath": "Nullable/NotNullWhenAttribute.cs"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bannerlord.BuildResources/1.0.0.39": {
+      "sha512": "ZpN+PL3rkm1xaAwukfEDPTOXwMk9Zqob2Q5ZwaoXGvsFYPJNZpdfoH6L6YnBotiiqiwFOsAtT/td6P2iMf2kJw==",
+      "type": "package",
+      "path": "bannerlord.buildresources/1.0.0.39",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bannerlord.buildresources.1.0.0.39.nupkg.sha512",
+        "bannerlord.buildresources.nuspec",
+        "build/Bannerlord.BuildResources.props",
+        "build/Bannerlord.BuildResources.targets",
+        "buildMultiTargeting/Bannerlord.BuildResources.props",
+        "buildMultiTargeting/Bannerlord.BuildResources.targets",
+        "tools/_._"
+      ]
+    },
+    "Harmony.Extensions/2.0.0.50": {
+      "sha512": "S/BJKk+TnX15kPzRqPte2BMVfoZqzoLJ0UxNaXVqBTJScbd4+/is4yO2lpqVFMLToOAgldRf5skfEas3P4XzJQ==",
+      "type": "package",
+      "path": "harmony.extensions/2.0.0.50",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/cs/net45/Harmony.Extensions/AccessCacheHandle.cs.pp",
+        "content/cs/net45/Harmony.Extensions/AccessTools2.Constructor.cs.pp",
+        "content/cs/net45/Harmony.Extensions/AccessTools2.Delegate.Constructor.cs.pp",
+        "content/cs/net45/Harmony.Extensions/AccessTools2.Delegate.Property.cs.pp",
+        "content/cs/net45/Harmony.Extensions/AccessTools2.Delegate.Shared.cs.pp",
+        "content/cs/net45/Harmony.Extensions/AccessTools2.Delegate.cs.pp",
+        "content/cs/net45/Harmony.Extensions/AccessTools2.Field.cs.pp",
+        "content/cs/net45/Harmony.Extensions/AccessTools2.FieldRef.cs.pp",
+        "content/cs/net45/Harmony.Extensions/AccessTools2.Method.cs.pp",
+        "content/cs/net45/Harmony.Extensions/AccessTools2.Property.cs.pp",
+        "content/cs/net45/Harmony.Extensions/AccessTools2.StaticFieldRef.cs.pp",
+        "content/cs/net45/Harmony.Extensions/AccessTools2.StructFieldRef.cs.pp",
+        "content/cs/net45/Harmony.Extensions/AccessTools2.cs.pp",
+        "content/cs/net45/Harmony.Extensions/HarmonyExtensions.cs.pp",
+        "content/cs/net45/Harmony.Extensions/Reflect.cs.pp",
+        "content/cs/net45/Harmony.Extensions/SymbolExtensions2.Constructor.cs.pp",
+        "content/cs/net45/Harmony.Extensions/SymbolExtensions2.Field.cs.pp",
+        "content/cs/net45/Harmony.Extensions/SymbolExtensions2.FieldRef.cs.pp",
+        "content/cs/net45/Harmony.Extensions/SymbolExtensions2.Method.cs.pp",
+        "content/cs/net45/Harmony.Extensions/SymbolExtensions2.Property.cs.pp",
+        "content/cs/net45/Harmony.Extensions/SymbolExtensions2.StaticFieldRef.cs.pp",
+        "content/cs/net45/Harmony.Extensions/SymbolExtensions2.StructFieldRef.cs.pp",
+        "content/cs/net45/Harmony.Extensions/SymbolExtensions2.cs.pp",
+        "content/cs/net45/Harmony.Extensions/Traverse2.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/AccessCacheHandle.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Constructor.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Delegate.Constructor.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Delegate.Property.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Delegate.Shared.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Delegate.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Field.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/AccessTools2.FieldRef.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Method.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Property.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/AccessTools2.StaticFieldRef.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/AccessTools2.StructFieldRef.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/AccessTools2.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/HarmonyExtensions.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/Reflect.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.Constructor.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.Field.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.FieldRef.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.Method.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.Property.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.StaticFieldRef.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.StructFieldRef.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.cs.pp",
+        "content/cs/netstandard2.0/Harmony.Extensions/Traverse2.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/AccessCacheHandle.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Constructor.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Delegate.Constructor.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Delegate.Property.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Delegate.Shared.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Delegate.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Field.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.FieldRef.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Method.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.Property.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.StaticFieldRef.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.StructFieldRef.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/AccessTools2.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/HarmonyExtensions.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/Reflect.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.Constructor.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.Field.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.FieldRef.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.Method.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.Property.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.StaticFieldRef.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.StructFieldRef.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/SymbolExtensions2.cs.pp",
+        "contentFiles/cs/net45/Harmony.Extensions/Traverse2.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/AccessCacheHandle.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Constructor.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Delegate.Constructor.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Delegate.Property.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Delegate.Shared.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Delegate.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Field.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/AccessTools2.FieldRef.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Method.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/AccessTools2.Property.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/AccessTools2.StaticFieldRef.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/AccessTools2.StructFieldRef.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/AccessTools2.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/HarmonyExtensions.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/Reflect.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.Constructor.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.Field.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.FieldRef.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.Method.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.Property.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.StaticFieldRef.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.StructFieldRef.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/SymbolExtensions2.cs.pp",
+        "contentFiles/cs/netstandard2.0/Harmony.Extensions/Traverse2.cs.pp",
+        "harmony.extensions.2.0.0.50.nupkg.sha512",
+        "harmony.extensions.nuspec",
+        "icon.png"
+      ]
+    },
+    "IsExternalInit/1.0.1": {
+      "sha512": "Md/buF2kqLI/bvmqEwtsCGXKmgbZBzJRW1vz38lyTZKjP4YMXOOSATOSbWg2+S+tlRbrM/8qp9qOBDtqLHBgBw==",
+      "type": "package",
+      "path": "isexternalinit/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net20/IsExternalInit.targets",
+        "build/net40/IsExternalInit.targets",
+        "build/netstandard1.0/IsExternalInit.targets",
+        "build/netstandard2.0/IsExternalInit.targets",
+        "content/net20/IsExternalInit/IsExternalInit.cs.pp",
+        "content/net40/IsExternalInit/IsExternalInit.cs.pp",
+        "content/net5.0/IsExternalInit/IsExternalInit.cs.pp",
+        "content/netstandard1.0/IsExternalInit/IsExternalInit.cs.pp",
+        "content/netstandard2.0/IsExternalInit/IsExternalInit.cs.pp",
+        "contentFiles/cs/net20/IsExternalInit/IsExternalInit.cs.pp",
+        "contentFiles/cs/net40/IsExternalInit/IsExternalInit.cs.pp",
+        "contentFiles/cs/net5.0/IsExternalInit/IsExternalInit.cs.pp",
+        "contentFiles/cs/netstandard1.0/IsExternalInit/IsExternalInit.cs.pp",
+        "contentFiles/cs/netstandard2.0/IsExternalInit/IsExternalInit.cs.pp",
+        "icon.png",
+        "isexternalinit.1.0.1.nupkg.sha512",
+        "isexternalinit.nuspec"
+      ]
+    },
+    "Lib.Harmony/2.1.1": {
+      "sha512": "CZiVcq01bVIjL2baWW5SVGZWyd6ew8adFp4BB2bzZfIGcWkTEto0G9sKu+9HDrEd75qBq3EHnZxx/gizi4NnqA==",
+      "type": "package",
+      "path": "lib.harmony/2.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "HarmonyLogo.png",
+        "LICENSE",
+        "lib.harmony.2.1.1.nupkg.sha512",
+        "lib.harmony.nuspec",
+        "lib/net35/0Harmony.dll",
+        "lib/net35/0Harmony.xml",
+        "lib/net45/0Harmony.dll",
+        "lib/net45/0Harmony.xml",
+        "lib/net472/0Harmony.dll",
+        "lib/net472/0Harmony.xml",
+        "lib/net48/0Harmony.dll",
+        "lib/net48/0Harmony.xml",
+        "lib/net5.0/0Harmony.dll",
+        "lib/net5.0/0Harmony.xml",
+        "lib/netcoreapp3.0/0Harmony.dll",
+        "lib/netcoreapp3.0/0Harmony.xml",
+        "lib/netcoreapp3.1/0Harmony.dll",
+        "lib/netcoreapp3.1/0Harmony.xml"
+      ]
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "type": "package",
+      "path": "newtonsoft.json/11.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.11.0.2.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
+    },
+    "Nullable/1.3.0": {
+      "sha512": "xHAviTdTY3n+t1nEPN4JPRQR5lI124qRKVw+U9H7dO5sDNPpzoWeo/MQy7dSUmv9eD3k/CJVKokz1tFK+JOzRw==",
+      "type": "package",
+      "path": "nullable/1.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/net20/Nullable/AllowNullAttribute.cs.pp",
+        "content/net20/Nullable/DisallowNullAttribute.cs.pp",
+        "content/net20/Nullable/DoesNotReturnAttribute.cs.pp",
+        "content/net20/Nullable/DoesNotReturnIfAttribute.cs.pp",
+        "content/net20/Nullable/MaybeNullAttribute.cs.pp",
+        "content/net20/Nullable/MaybeNullWhenAttribute.cs.pp",
+        "content/net20/Nullable/MemberNotNullAttribute.cs.pp",
+        "content/net20/Nullable/MemberNotNullWhenAttribute.cs.pp",
+        "content/net20/Nullable/NotNullAttribute.cs.pp",
+        "content/net20/Nullable/NotNullIfNotNullAttribute.cs.pp",
+        "content/net20/Nullable/NotNullWhenAttribute.cs.pp",
+        "content/net40/Nullable/AllowNullAttribute.cs.pp",
+        "content/net40/Nullable/DisallowNullAttribute.cs.pp",
+        "content/net40/Nullable/DoesNotReturnAttribute.cs.pp",
+        "content/net40/Nullable/DoesNotReturnIfAttribute.cs.pp",
+        "content/net40/Nullable/MaybeNullAttribute.cs.pp",
+        "content/net40/Nullable/MaybeNullWhenAttribute.cs.pp",
+        "content/net40/Nullable/MemberNotNullAttribute.cs.pp",
+        "content/net40/Nullable/MemberNotNullWhenAttribute.cs.pp",
+        "content/net40/Nullable/NotNullAttribute.cs.pp",
+        "content/net40/Nullable/NotNullIfNotNullAttribute.cs.pp",
+        "content/net40/Nullable/NotNullWhenAttribute.cs.pp",
+        "content/net5.0/_._",
+        "content/netstandard1.0/Nullable/AllowNullAttribute.cs.pp",
+        "content/netstandard1.0/Nullable/DisallowNullAttribute.cs.pp",
+        "content/netstandard1.0/Nullable/DoesNotReturnAttribute.cs.pp",
+        "content/netstandard1.0/Nullable/DoesNotReturnIfAttribute.cs.pp",
+        "content/netstandard1.0/Nullable/MaybeNullAttribute.cs.pp",
+        "content/netstandard1.0/Nullable/MaybeNullWhenAttribute.cs.pp",
+        "content/netstandard1.0/Nullable/MemberNotNullAttribute.cs.pp",
+        "content/netstandard1.0/Nullable/MemberNotNullWhenAttribute.cs.pp",
+        "content/netstandard1.0/Nullable/NotNullAttribute.cs.pp",
+        "content/netstandard1.0/Nullable/NotNullIfNotNullAttribute.cs.pp",
+        "content/netstandard1.0/Nullable/NotNullWhenAttribute.cs.pp",
+        "content/netstandard2.0/Nullable/AllowNullAttribute.cs.pp",
+        "content/netstandard2.0/Nullable/DisallowNullAttribute.cs.pp",
+        "content/netstandard2.0/Nullable/DoesNotReturnAttribute.cs.pp",
+        "content/netstandard2.0/Nullable/DoesNotReturnIfAttribute.cs.pp",
+        "content/netstandard2.0/Nullable/MaybeNullAttribute.cs.pp",
+        "content/netstandard2.0/Nullable/MaybeNullWhenAttribute.cs.pp",
+        "content/netstandard2.0/Nullable/MemberNotNullAttribute.cs.pp",
+        "content/netstandard2.0/Nullable/MemberNotNullWhenAttribute.cs.pp",
+        "content/netstandard2.0/Nullable/NotNullAttribute.cs.pp",
+        "content/netstandard2.0/Nullable/NotNullIfNotNullAttribute.cs.pp",
+        "content/netstandard2.0/Nullable/NotNullWhenAttribute.cs.pp",
+        "content/netstandard2.1/Nullable/MemberNotNullAttribute.cs.pp",
+        "content/netstandard2.1/Nullable/MemberNotNullWhenAttribute.cs.pp",
+        "contentFiles/cs/net20/Nullable/AllowNullAttribute.cs.pp",
+        "contentFiles/cs/net20/Nullable/DisallowNullAttribute.cs.pp",
+        "contentFiles/cs/net20/Nullable/DoesNotReturnAttribute.cs.pp",
+        "contentFiles/cs/net20/Nullable/DoesNotReturnIfAttribute.cs.pp",
+        "contentFiles/cs/net20/Nullable/MaybeNullAttribute.cs.pp",
+        "contentFiles/cs/net20/Nullable/MaybeNullWhenAttribute.cs.pp",
+        "contentFiles/cs/net20/Nullable/MemberNotNullAttribute.cs.pp",
+        "contentFiles/cs/net20/Nullable/MemberNotNullWhenAttribute.cs.pp",
+        "contentFiles/cs/net20/Nullable/NotNullAttribute.cs.pp",
+        "contentFiles/cs/net20/Nullable/NotNullIfNotNullAttribute.cs.pp",
+        "contentFiles/cs/net20/Nullable/NotNullWhenAttribute.cs.pp",
+        "contentFiles/cs/net40/Nullable/AllowNullAttribute.cs.pp",
+        "contentFiles/cs/net40/Nullable/DisallowNullAttribute.cs.pp",
+        "contentFiles/cs/net40/Nullable/DoesNotReturnAttribute.cs.pp",
+        "contentFiles/cs/net40/Nullable/DoesNotReturnIfAttribute.cs.pp",
+        "contentFiles/cs/net40/Nullable/MaybeNullAttribute.cs.pp",
+        "contentFiles/cs/net40/Nullable/MaybeNullWhenAttribute.cs.pp",
+        "contentFiles/cs/net40/Nullable/MemberNotNullAttribute.cs.pp",
+        "contentFiles/cs/net40/Nullable/MemberNotNullWhenAttribute.cs.pp",
+        "contentFiles/cs/net40/Nullable/NotNullAttribute.cs.pp",
+        "contentFiles/cs/net40/Nullable/NotNullIfNotNullAttribute.cs.pp",
+        "contentFiles/cs/net40/Nullable/NotNullWhenAttribute.cs.pp",
+        "contentFiles/cs/net5.0/_._",
+        "contentFiles/cs/netstandard1.0/Nullable/AllowNullAttribute.cs.pp",
+        "contentFiles/cs/netstandard1.0/Nullable/DisallowNullAttribute.cs.pp",
+        "contentFiles/cs/netstandard1.0/Nullable/DoesNotReturnAttribute.cs.pp",
+        "contentFiles/cs/netstandard1.0/Nullable/DoesNotReturnIfAttribute.cs.pp",
+        "contentFiles/cs/netstandard1.0/Nullable/MaybeNullAttribute.cs.pp",
+        "contentFiles/cs/netstandard1.0/Nullable/MaybeNullWhenAttribute.cs.pp",
+        "contentFiles/cs/netstandard1.0/Nullable/MemberNotNullAttribute.cs.pp",
+        "contentFiles/cs/netstandard1.0/Nullable/MemberNotNullWhenAttribute.cs.pp",
+        "contentFiles/cs/netstandard1.0/Nullable/NotNullAttribute.cs.pp",
+        "contentFiles/cs/netstandard1.0/Nullable/NotNullIfNotNullAttribute.cs.pp",
+        "contentFiles/cs/netstandard1.0/Nullable/NotNullWhenAttribute.cs.pp",
+        "contentFiles/cs/netstandard2.0/Nullable/AllowNullAttribute.cs.pp",
+        "contentFiles/cs/netstandard2.0/Nullable/DisallowNullAttribute.cs.pp",
+        "contentFiles/cs/netstandard2.0/Nullable/DoesNotReturnAttribute.cs.pp",
+        "contentFiles/cs/netstandard2.0/Nullable/DoesNotReturnIfAttribute.cs.pp",
+        "contentFiles/cs/netstandard2.0/Nullable/MaybeNullAttribute.cs.pp",
+        "contentFiles/cs/netstandard2.0/Nullable/MaybeNullWhenAttribute.cs.pp",
+        "contentFiles/cs/netstandard2.0/Nullable/MemberNotNullAttribute.cs.pp",
+        "contentFiles/cs/netstandard2.0/Nullable/MemberNotNullWhenAttribute.cs.pp",
+        "contentFiles/cs/netstandard2.0/Nullable/NotNullAttribute.cs.pp",
+        "contentFiles/cs/netstandard2.0/Nullable/NotNullIfNotNullAttribute.cs.pp",
+        "contentFiles/cs/netstandard2.0/Nullable/NotNullWhenAttribute.cs.pp",
+        "contentFiles/cs/netstandard2.1/Nullable/MemberNotNullAttribute.cs.pp",
+        "contentFiles/cs/netstandard2.1/Nullable/MemberNotNullWhenAttribute.cs.pp",
+        "icon.png",
+        "nullable.1.3.0.nupkg.sha512",
+        "nullable.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Bannerlord.BuildResources >= 1.0.0.39",
+      "Harmony.Extensions >= 2.0.0.50",
+      "IsExternalInit >= 1.0.1",
+      "Lib.Harmony >= 2.1.1",
+      "Newtonsoft.Json >= 11.0.2",
+      "Nullable >= 1.3.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\stric\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "0.0.1",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\stric\\source\\repos\\ExampleMod\\ExampleMod\\ExampleMod.csproj",
+      "projectName": "YetAnotherCheerMod",
+      "projectPath": "C:\\Users\\stric\\source\\repos\\ExampleMod\\ExampleMod\\ExampleMod.csproj",
+      "packagesPath": "C:\\Users\\stric\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\stric\\source\\repos\\ExampleMod\\ExampleMod\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\stric\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "dependencies": {
+          "Bannerlord.BuildResources": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.0.0.39, )"
+          },
+          "Harmony.Extensions": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[2.0.0.50, )"
+          },
+          "IsExternalInit": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.0.1, )"
+          },
+          "Lib.Harmony": {
+            "include": "Compile",
+            "target": "Package",
+            "version": "[2.1.1, )"
+          },
+          "Newtonsoft.Json": {
+            "include": "Compile",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[11.0.2, )"
+          },
+          "Nullable": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.3.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

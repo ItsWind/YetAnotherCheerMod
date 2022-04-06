@@ -1,0 +1,16 @@
+C:\Users\stric\source\repos\ExampleMod\ExampleMod\obj\x64\Release\net472\ExampleMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stric\source\repos\ExampleMod\ExampleMod\obj\x64\Release\net472\ExampleMod.AssemblyInfoInputs.cache
+C:\Users\stric\source\repos\ExampleMod\ExampleMod\obj\x64\Release\net472\ExampleMod.AssemblyInfo.cs
+C:\Users\stric\source\repos\ExampleMod\ExampleMod\obj\x64\Release\net472\ExampleMod.csproj.CoreCompileInputs.cache
+C:\Users\stric\source\repos\ExampleMod\ExampleMod\obj\x64\Release\net472\ExampleMod.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\x64\Release\net472\ExampleMod.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\x64\Release\net472\ExampleMod.pdb
+C:\Users\stric\source\repos\ExampleMod\ExampleMod\obj\x64\Release\net472\ExampleMod.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\bin\Win64_Shipping_Client\x64\Release\net472\ExampleMod.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\bin\Win64_Shipping_Client\x64\Release\net472\ExampleMod.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\x64\Release\net472\YetAnotherCheerMod.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\ExampleMod\x64\Release\net472\YetAnotherCheerMod.pdb
+C:\Users\stric\source\repos\ExampleMod\ExampleMod\obj\x64\Release\net472\YetAnotherCheerMod.dll
+C:\Users\stric\source\repos\ExampleMod\ExampleMod\obj\x64\Release\net472\YetAnotherCheerMod.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\YetAnotherCheerMod\x64\Release\net472\YetAnotherCheerMod.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\YetAnotherCheerMod\x64\Release\net472\YetAnotherCheerMod.pdb
